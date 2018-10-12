@@ -1,4 +1,4 @@
-# -MEN-Stack-CRUD-Lab
+# MEN-Stack-CRUD-Lab
 
 Come up with a model, that has at least two properties.
 
